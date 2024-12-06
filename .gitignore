@@ -2,3 +2,4 @@ testdata/Book2.csv
 testdata/invalid_emails.csv
 testdata/valid_emails.csv
 .DS_Store
+ExtractEmails.code-workspace
